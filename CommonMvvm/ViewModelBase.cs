@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel;
 
-namespace AHDB.UI.Common
+namespace CommonMvvm
 {
     public class ViewModelBase : INotifyPropertyChanged
     {

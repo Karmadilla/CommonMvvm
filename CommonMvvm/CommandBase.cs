@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Windows.Input;
 
-namespace AHDB.UI.Common
+namespace CommonMvvm
 {
     public class CommandBase<T> : ICommand
     {
